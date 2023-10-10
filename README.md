@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Reoberg
 - 👀 I’m interested in Game Development(Unity)
-- 🌱 I’m currently learning C#, Unity
+- 🌱 I’m currently learning Java, MongoDB, Node.js.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
